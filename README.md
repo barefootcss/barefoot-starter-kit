@@ -1,4 +1,4 @@
-#barefoot-starter-kit
+#Starter-kit
 
 The `starter-kit` puts together the key dependencies needed to start any new project.
 
