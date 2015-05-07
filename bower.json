@@ -19,7 +19,8 @@
     "bare-mixins": "~0.1.0",
     "bare-normalize-css": "~0.1.0",
     "bare-reset": "~0.1.0",
-    "bare-shared": "~0.1.0"     
+    "bare-shared": "~0.1.0",
+    "bare-box-sizing": "~0.1.0"     
   }
 }
   

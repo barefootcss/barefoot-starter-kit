@@ -16,3 +16,4 @@ Import in this order:
 	@import "bower_components/bare-normalize-css/core.normalize-css";
 	@import "bower_components/bare-reset/core.reset";
 	@import "bower_components/bare-shared/core.shared";
+	@import "bower_components/bare-box-sizing/core.box-sizing";
