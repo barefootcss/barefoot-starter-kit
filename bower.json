@@ -1,0 +1,25 @@
+{
+  "name": "barefoot-starter-kit",
+  "version": "0.1.0",
+  "authors": [
+    "Eric Harms <barefoot.css@gmail.com>"
+  ],
+  "description": "The starter-kit puts together the key dependencies needed to start any new project.",
+  "keywords": [
+    "barefoot",
+    "oocss",
+    "css",
+    "framework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/barefootcss/barefoot-starter-kit",
+  "dependencies": {
+    "bare-defaults": "~0.1.0",
+    "bare-functions": "~0.1.0",
+    "bare-mixins": "~0.1.0",
+    "bare-normalize-css": "~0.1.0",
+    "bare-reset": "~0.1.0",
+    "bare-shared": "~0.1.0"     
+  }
+}
+  
