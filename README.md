@@ -6,7 +6,7 @@ The `starter-kit` puts together the key dependencies needed to start any new pro
 
 Install using Bower:
 
-	$ bower install --save barefoot-starter-kit
+	$ bower install --save bare-starter-kit
 
 Import in this order:
 
